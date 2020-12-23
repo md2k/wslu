@@ -1,8 +1,9 @@
-wslu (3.2.1-0ubuntu2) groovy; urgency=medium
+wslu (3.2.1-0ubuntu2ppa2) groovy; urgency=medium
 
+  * packaging: use arm64 and amd64 only for triggering builds
   * header: fix a badly checked case in var_gen()
 
- -- Patrick Wu <patrick.wu@canonical.com>  Tue, 13 Oct 2020 00:03:45 +0800
+ -- Patrick Wu <patrick.wu@canonical.com>  Mon, 23 Nov 2020 17:02:29 +0800
 
 wslu (3.2.1-0ubuntu1) groovy; urgency=medium
 

@@ -10,7 +10,7 @@ Vcs-Browser:  https://git.launchpad.net/~ubuntu-core-dev/ubuntu/+source/wslu
 Homepage: https://wslutiliti.es/wslu
 
 Package: wslu
-Architecture: all
+Architecture: amd64 arm64
 Depends: ${misc:Depends},
          bc
 Recommends: pulseaudio-utils,
